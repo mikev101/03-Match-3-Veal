@@ -24,7 +24,7 @@ Built using Godot 3.3.3
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
  * The match-3 game is derived from code provided by [MisterTaftCreates](https://github.com/mistertaftcreates/Godot_match_3), with an accompanying [YouTube series](https://www.youtube.com/playlist?list=PL4vbr3u7UKWqwQlvwvgNcgDL1p_3hcNn2)
- * Additional match-3 coding aid from [YouTube Series] (https://www.youtube.com/watch?v=-C4fRywFxqc&list=PL3V-_hJz2cV89Nib6PEIIvUH0pimFDyyc&index=1)
+ * Additional match-3 coding aid from [YouTube Series](https://www.youtube.com/watch?v=-C4fRywFxqc&list=PL3V-_hJz2cV89Nib6PEIIvUH0pimFDyyc&index=1)
  * [Animal Pack Redux, provided by kenney.nl](https://kenney.nl/assets/animal-pack-redux)
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
  * Explosion spritesheet provided by [Ville Seppanen](https://opengameart.org/content/explosion-animated)
