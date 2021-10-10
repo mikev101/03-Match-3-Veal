@@ -28,10 +28,10 @@ Built using Godot 3.3.3
  * [Animal Pack Redux, provided by kenney.nl](https://kenney.nl/assets/animal-pack-redux)
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
  * Explosion spritesheet provided by [Ville Seppanen](https://opengameart.org/content/explosion-animated)
- * [Orbitron typeface] by [Matt McInerney](https://fonts.google.com/specimen/Orbitron)
+ * Orbitron typeface by [Matt McInerney](https://fonts.google.com/specimen/Orbitron)
  * Screen Shake script provided by [KidsCanCode](https://kidscancode.org/godot_recipes/2d/screen_shake/)
- * [Skyline Background] by [FabinhoSC](https://opengameart.org/content/skyline-background)
- * [Music and SFX] by [Elizabeth], a fellow producer at IU, Elizabeth@HelveticaAudio.com
+ * Skyline Background by [FabinhoSC](https://opengameart.org/content/skyline-background)
+ * Music and SFX by [Elizabeth], a fellow producer at IU, Elizabeth@HelveticaAudio.com
  * [Sokobon by kenney.nl](https://kenney.nl/assets/sokoban)
 
 ## Future Development
